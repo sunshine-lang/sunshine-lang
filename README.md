@@ -1,1 +1,1 @@
-<div align="center"> <img src="https://metrics.lecoq.io/sun0225SUN?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sunshine-lang&show_icons=true&theme=tokyonight" /> </div>
