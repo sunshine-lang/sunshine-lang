@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F75B9,55:6689C3,100:E77722&height=220&section=header&text=Hi%2C%20I'm%20Xiao%20Yuan&fontSize=44&fontColor=FFF5E6&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%86%92%20AI%20Product%20%2F%20FDE&descSize=20&descAlignY=56" alt="Xiao Yuan profile banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F75B9,55:6689C3,100:E77722&height=220&section=header&text=Hi%2C%20I'm%20Sun%20shine&fontSize=44&fontColor=FFF5E6&animation=fadeIn&fontAlignY=36&desc=AI%20Engineer%20%E2%86%92%20AI%20Product%20%2F%20FDE&descSize=20&descAlignY=56" alt="Sunshine profile banner" />
 </p>
 
 <p align="center">
@@ -24,28 +24,6 @@ About Me
 
 我关注的不只是模型“能不能做到”，更关心它能否进入真实业务流程，被用户稳定使用，并形成可验证的交付结果。
 
-class XiaoYuan:
-    path = "AI Engineering → AI Product / FDE"
-
-    focus = [
-        "Enterprise RAG",
-        "Agent & Workflow Engineering",
-        "LLM Deployment & Evaluation",
-        "Harness & Context Engineering",
-    ]
-
-    strengths = [
-        "Engineering",
-        "Deployment",
-        "Enterprise Delivery",
-    ]
-
-    learning = [
-        "User Research",
-        "Product Strategy",
-        "Business Analysis",
-        "Data-informed Product Decisions",
-    ]
 
 What I'm Working On
 
@@ -58,34 +36,6 @@ What I'm Working On
 ✍️ 持续输出 AI 产品分析、项目复盘与工程实践
 
 🔭 关注 AI Product、FDE 与企业 AI 应用相关机会
-
-Selected Work
-
-Project
-
-What I Did
-
-Outcome
-
-Enterprise RAG Platform
-
-参与架构、研发与私有化部署，覆盖多格式解析、OCR、向量检索、Rerank、引用定位、权限和审计
-
-将分散文档转化为可检索、可追溯的企业知识服务
-
-Azure OpenAI Translation Assistant
-
-完成应用搭建、部署、测试、优化与用户培训
-
-周处理能力约 20 万 → 100 万字，字数统计效率提升约 80%
-
-FastGPT Data Governance
-
-完成私有化部署、数据治理和检索导出能力建设
-
-相关业务处理效率提升约 50%
-
-Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-4F75B9?style=flat-square&logo=python&logoColor=white" alt="Python" />
