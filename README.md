@@ -35,7 +35,7 @@ What I'm Working On
 
 ✍️ 持续输出 AI 产品分析、项目复盘与工程实践
 
-🔭 关注 AI Product、FDE 与企业 AI 应用相关机会
+🔭 关注 AI PM、FDE 与企业 AI 应用相关机会
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-4F75B9?style=flat-square&logo=python&logoColor=white" alt="Python" />
