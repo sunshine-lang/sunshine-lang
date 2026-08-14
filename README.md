@@ -63,6 +63,16 @@ RAG、Workflow 和知识库的生产级落地
 
 从 AI 研发到 AI 产品与 FDE 的转型实践
 
+DeepSeek Harness Plugins
+
+🧩 我开发的 [DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) 插件（[统一入口](https://github.com/sunshine-lang/dsh-plugins)）：
+
+| 插件 | 功能 | 安装 |
+| --- | --- | --- |
+| [dsh-weather](https://github.com/sunshine-lang/dsh-weather) | 实时天气与多日预报（Open-Meteo，免费） | `dsh plugin add "github:sunshine-lang/dsh-weather"` |
+| [dsh-pdf](https://github.com/sunshine-lang/dsh-pdf) | PDF 文本/元数据/页码范围提取（本地解析） | `dsh plugin add "github:sunshine-lang/dsh-pdf"` |
+| [dsh-plugin-template](https://github.com/sunshine-lang/dsh-plugin-template) | 新插件脚手架（一条命令生成） | `git clone` |
+
 GitHub Analytics
 
 <p align="center">
